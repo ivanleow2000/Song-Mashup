@@ -1,5 +1,5 @@
 # Song-Mashup
-# Separate vocals from a song and background music from another and mash them together.
+Separate vocals from a song and background music from another and mash them together.
 
 It's kinda bad lmao. See "GOOD PARTS.txt".
 
