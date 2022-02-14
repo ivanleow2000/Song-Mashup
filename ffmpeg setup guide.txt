@@ -1,0 +1,5 @@
+Link: https://www.gyan.dev/ffmpeg/builds/
+Download the zip file
+
+Set working directory to current folder (.../Song mashup)
+From zip file, copy and paste /bin/ffmpeg.exe and /bin/ffprobe.exe into current working directory.
